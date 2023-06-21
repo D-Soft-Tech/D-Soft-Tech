@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adebayo Olawale Oloyede
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Adebayo
 ===============================================================================================================================================
 
-Android Software Engineer
+An Android Software Engineer
 -------------------------
 
 Agile-trained Android Software Engineer dedicated to developing quality, testable, scalable and user-focused deliverables using the most innovative and efficient technologies available. As an Android Engineer, i am always learning in order to keep getting better at what i do. PROUDLY NIGERIAN, if you have any problem with that please don't bother connecting.
