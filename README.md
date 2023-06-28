@@ -9,7 +9,7 @@ Agile-trained Android Software Engineer dedicated to developing quality, testabl
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oloyedeadebayoolawale@gmail.com](mailto:oloyedeadebayoolawale@gmail.com)
 * 🧠  I'm learning Spring boot and Embedded systems
-* 🤝  I'm open to collaborating on Android Projects and Libraries
+* 🤝  I'm open to collaboraion on Android Projects and Libraries
 
 ### Skills
 
